@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Solitaire</label>
+	</settings>
+	<users>
+		<user>
+			<path>Solitaire.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Solitaire.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,2 @@
+jar cvfm Sol.jar mainClass Solitaire/ 
+java -jar Sol.jar mainClass Solitaire/
